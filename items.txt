@@ -1,0 +1,4 @@
+1,banna,2,25
+2,tomato,10,15
+2,cucumber,3,12
+2,carrots,4,10
